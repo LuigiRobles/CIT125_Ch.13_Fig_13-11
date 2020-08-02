@@ -1,4 +1,5 @@
 // CIT125 Intro To C++ Luigi Robles
+// 08-01-2020 Summer Term
 // Ch.13 pg.472 Fig.13-11 Zip Code Program
 // Checks whether a ZIP code contains valid number of characters
 
